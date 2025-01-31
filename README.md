@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meysam-Mansouri habibabadi
+- 👋 Hi, I’m @Meysam-Mansouri 
 - 👀 I’m interested in neural network 
 - 🌱 I’m currently learning DEEP learning 
 - 💞️ I’m looking to collaborate on nwe project
